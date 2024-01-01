@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(105, 32, 76);
+}
+.form{
+    background-color: rgb(97, 13, 62);
+    width: 30%;
+    height: 250px;
+    padding: 65px;
+    margin-left: 390px;
+    margin-top: 220px;
+    border-radius: 25px;
+    border: 5px solid black;
+    color: aliceblue;
+    filter: drop-shadow(2px 3px 10px violet);
+    text-shadow: 2px -2px 2px violet;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+}
+input{
+    border: 2px dashed  darkorchid;
+}
+textarea{
+    border: 2px dashed  darkorchid;
+}
+button{
+    border: 2px dashed  darkorchid;
+    background-color: whitesmoke;
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    text-decoration: underline;
+}
+.div1{
+    width: 30%;
+    height: 250px;
+    padding: 40px;
+    margin-left: 390px;
+    margin-top: 220px;
+    border-radius: 25px;
+    border: 5px solid wheat;
+    filter: drop-shadow(2px 3px 10px violet);
+    text-shadow: 1px -1px 1px violet;
+   
+}
+.button1{
+    margin: 50px;
+    padding: 10px;
+    cursor: pointer;
+    
+}
+.button3{
+    margin: 30px;
+    padding: 10px;
+    cursor: pointer;
+}
+.div{
+    color: wheat;
+    margin-left: 130px;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+}
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+/* html{
+    scroll-behavior: smooth;
+    scroll-padding-top: 75px;
+}
+body{
+    font-weight: 400;
+    overflow-x: hidden;
+    position: relative;
+    background-color: black !important;
+    color: white !important;
+    font-family: 'centra',sans-serif !important;
+} */
