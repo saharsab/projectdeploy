@@ -11,6 +11,7 @@
 //   </React.StrictMode>
 // );
 // index.js
+process.env.NODE_ENV = 'production';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
